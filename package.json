@@ -44,7 +44,7 @@
     "gulp-uglify": "^1.4.0",
     "gulp-util": "^3.0.6",
     "gulp-watch": "^4.3.5",
-    "node-sass": "^4.5.3",
+    "node-sass": "^4.13.1",
     "source-map": "^0.4.4",
     "urijs": "^1.17.0"
   },
